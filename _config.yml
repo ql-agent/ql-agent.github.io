@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
+title: 清流Agent
 SEOTitle: 清流Agent的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: 3789841536@qq.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+description: "让 AI 像团队一样工作，复杂世界，清流而至"
+keyword: "清流agent, 多智能体, AI, Agentic workflow, 人机协作"
 url: "http://ql-agent.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ql-agent/ql-agent.github.io.git" # you code repository
@@ -23,7 +23,7 @@ zhihu_username:     qiubaiying
 github_username:    qiubaiying
 facebook_username:  baiying.qiu.7
 jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+#twitter_username:   清流
 
 
 
